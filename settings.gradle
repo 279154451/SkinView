@@ -1,0 +1,4 @@
+rootProject.name = "PluginSkinView"
+include ':app'
+include ':SkinLib'
+include ':skinresapk'
